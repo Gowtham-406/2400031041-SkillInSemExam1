@@ -1,0 +1,28 @@
+1)git init
+
+2)git add filename
+
+3)git git commit -m "setup student portal project"
+
+4)git branch feature-login
+
+5)git add app.js
+  git commit -m "Added login feature script in     app.js"
+
+6)git checkout main
+
+7)git add style.css
+git commit -m "Updated background color in style.css"
+
+8)git merge feature-login
+
+9)git add filename
+git commit -m "Resolved merge conflicts between main and feature-login"
+
+10)git diff
+
+11)git reset
+
+12)git tag v1.0
+
+
